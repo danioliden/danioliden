@@ -38,8 +38,3 @@ I am a recent SPM graduate and a passionate developer who loves building functio
 * 🎓 Preparing for university life.
 * 📱 Refining my Flutter skills.
 * 🌐 Learning React for web development.
-
----
-
-### 📫 How to reach me:
-* **Discord:** [adaniel52](https://discord.com/users/1051333111578890291)
