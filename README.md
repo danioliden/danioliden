@@ -1,10 +1,6 @@
-# Hi there! 👋
+# 👋 Hi there!
 
 I'm Daniel from Malaysia. 🇲🇾
-
----
-
-### 👨‍💻 Aspiring Software Engineer | Flutter & React Enthusiast
 
 I am a recent SPM graduate and a passionate developer who loves building functional, beautiful mobile and web apps. I became the lead developer for my school’s innovation team and have joined several innovation competitions.
 
@@ -14,8 +10,8 @@ I am a recent SPM graduate and a passionate developer who loves building functio
 
 * **Languages:** Dart, JavaScript, HTML/CSS
 * **Frameworks:** Flutter, React
-* **Tools:** GitHub, VS Code
-* **Platforms:** Android, Web
+* **Tools:** GitHub, Visual Studio Code
+* **Platforms:** Android, iOS, Web
 
 ---
 
