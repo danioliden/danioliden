@@ -17,7 +17,7 @@ I am a recent SPM graduate and a passionate developer who loves building functio
 
 ### 🏆 Achievements & Competitions
 
-#### 📖 [Repeater](https://github.com/adaniel52/repeater)
+#### 📖 [Repeater](https://github.com/danioliden/repeater)
 * **International University Carnival on E-Learning (IUCEL) 2023:** Gold Award 🥇
 * **International Learning Resources Festival (ILRF) 2023:** Gold Award 🥇
 * **Terengganu-ExxonMobil Mathematic Innovation Challenge (TExMIC) 2023:** Silver Award 🥈
@@ -25,7 +25,7 @@ I am a recent SPM graduate and a passionate developer who loves building functio
 * **International Creativity And Innovation Award (ICIA) 2024:** Gold Award 🥇
 * **International Innovative Technology Summit (IITS) 2024:** Gold Award & 1st Runner Up 🥇
 
-#### 💵 [GoFund](https://github.com/adaniel52/gofund)
+#### 💵 [GoFund](https://github.com/danioliden/gofund)
 * **Youth Tech Asia Challenge (YTAC) 2025:** Silver Award & 6th Runner Up 🥈
 
 ---
